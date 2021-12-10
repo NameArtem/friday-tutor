@@ -58,4 +58,4 @@
 
 | Тема | Ссылка на материал | Ссылка на видео | Задание к следующему занятию |
 |:--:|:----------------:|:-------------:|:-------------------------:|
-| GitFlow |[](https://github.com/NameArtem/friday-tutor/tree/main/Other/GitFlow%20BestPractice/git_flow)| - | - |
+| GitFlow |[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/Other/GitFlow%20BestPractice/git_flow)| - | - |
