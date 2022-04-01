@@ -40,6 +40,7 @@
 |:--:|:----------------:|:-------------:|:-------------------------:|
 |Оптимизация цены | [Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/1.Price%20optimization) | - |  - |
 |Таргетирование промо (ч1)|[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/2.Promo)|[видео на youtube](https://youtu.be/yNmpE3wLQTM)| - |
+|Таргетирование промо (ч2). Модель отклика|[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/3.Promo.%20Response%20Model)|[видео на youtube]()| - |
 
 
 ## Python-кормилец
