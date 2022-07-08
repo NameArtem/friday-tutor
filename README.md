@@ -41,6 +41,7 @@
 |Оптимизация цены | [Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/1.Price%20optimization) | - |  - |
 |Таргетирование промо (ч1)|[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/2.Promo)|[видео на youtube](https://youtu.be/yNmpE3wLQTM)| - |
 |Таргетирование промо (ч2). Модель отклика|[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/3.Promo.%20Response%20Model)|[видео на youtube](https://youtu.be/vRNBbwLg-BM)| - |
+|Модель Отклика (промо)| - |[видео на youtube](https://youtu.be/RRtC4kx0OfI)| - |
 
 
 ## Python-кормилец
@@ -61,3 +62,9 @@
 | Тема | Ссылка на материал | Ссылка на видео | Задание к следующему занятию |
 |:--:|:----------------:|:-------------:|:-------------------------:|
 | GitFlow |[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/Other/GitFlow%20BestPractice/git_flow)| - | - |
+| Kedro | - | [Ссылка на видео](https://www.youtube.com/watch?v=Wne54Hps1Fg) | - |
+| Kedro | - | [Ссылка на видео](https://www.youtube.com/watch?v=Wne54Hps1Fg) | - |
+| О Версионировании в DVC | - | [Ссылка на видео](https://youtu.be/sEfku8SBJ4E) | - |
+| О Бустингах. Принцип работы. Регрессия | - | [Ссылка на видео](https://youtu.be/qaCU1T_RKkM) | - |
+| ReadTheDocs | - | [Ссылка на видео](https://youtu.be/RksjMi9sGfk) | - |
+| Энтропия и PCA | - | [Ссылка на видео](https://youtu.be/VrWHMRd_qlw) | - |
