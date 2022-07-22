@@ -68,3 +68,4 @@
 | О Бустингах. Принцип работы. Регрессия | - | [Ссылка на видео](https://youtu.be/qaCU1T_RKkM) | - |
 | ReadTheDocs | - | [Ссылка на видео](https://youtu.be/RksjMi9sGfk) | - |
 | Энтропия и PCA | - | [Ссылка на видео](https://youtu.be/VrWHMRd_qlw) | - |
+| Версионируй ЭТО! | - | [Ссылка на видео](https://youtu.be/ZxZPju7rDIk) | - |
