@@ -64,7 +64,7 @@
 | GitFlow |[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/Other/GitFlow%20BestPractice/git_flow)| - | - |
 | Kedro | - | [Ссылка на видео](https://www.youtube.com/watch?v=Wne54Hps1Fg) | - |
 | Kedro | - | [Ссылка на видео](https://www.youtube.com/watch?v=Wne54Hps1Fg) | - |
-| О Версионировании в DVC | - | [Ссылка на видео](https://youtu.be/sEfku8SBJ4E) | - |
+| О Версионировании в DVC | - | Будем пересоздавать | - |
 | О Бустингах. Принцип работы. Регрессия | - | [Ссылка на видео](https://youtu.be/qaCU1T_RKkM) | - |
 | ReadTheDocs | - | [Ссылка на видео](https://youtu.be/RksjMi9sGfk) | - |
 | Энтропия и PCA | - | [Ссылка на видео](https://youtu.be/VrWHMRd_qlw) | - |
