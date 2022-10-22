@@ -71,6 +71,7 @@ __! Последние 2 пятницы месяца меняются на ку�
 | ReadTheDocs | - | [Ссылка на видео](https://youtu.be/RksjMi9sGfk) | - |
 | Энтропия и PCA | - | [Ссылка на видео](https://youtu.be/VrWHMRd_qlw) | - |
 | Версионируй ЭТО! | - | [Ссылка на видео](https://youtu.be/ZxZPju7rDIk) | - |
+| Введение в PyMC3 | [Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/Other/PyMC3/pymc3.ipynb) | [Ссылка на видео](https://youtu.be/UOwZ0d8pUnE) | - |
 
 ## MLOps
 
