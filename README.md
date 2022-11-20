@@ -44,6 +44,7 @@ __! Последние 2 пятницы месяца меняются на ку�
 |Таргетирование промо (ч1)|[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/2.Promo)|[видео на youtube](https://youtu.be/yNmpE3wLQTM)| - |
 |Таргетирование промо (ч2). Модель отклика|[Ссылка](https://github.com/NameArtem/friday-tutor/tree/main/ML%20in%20Marketing/3.Promo.%20Response%20Model)|[видео на youtube](https://youtu.be/vRNBbwLg-BM)| - |
 |Модель Отклика (промо)| - |[видео на youtube](https://youtu.be/RRtC4kx0OfI)| - |
+|Просто про Uplift | [Материал]() |[видео на youtube](https://youtu.be/lCZ_L7nvN10)| - |
 
 
 ## Python-кормилец
